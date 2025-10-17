@@ -1,6 +1,7 @@
 # Concept AI
 
-Describe concepts and save them in text files with Google's artificial intelligence (Gemini).
+Describe concepts and save them in text files with Google's artificial intelligence
+(Gemini).
 
 Run the command below to get the concepts:
 ```bash
@@ -27,4 +28,5 @@ MySQL => About MySQL
 
 ```
 
->Note: It's important to keep the two last lines in blank in order to the script be able to add new lines correctly.
+>Note: It's important to keep the two last lines in blank in order to the script be able
+to append new lines correctly.
